@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LoginActivity</string>
+    <string name="copyright">Bit2016 Co. Ltd</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="btn_text_login">Sign in</string>
+    <string name="login_url">&lt;a href=http://www.hellomyoffice.com>Hello My Office 가입하기&lt;/a&gt;</string>
 </resources>
